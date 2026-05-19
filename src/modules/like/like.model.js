@@ -26,3 +26,5 @@ const Like = sequelize.define(
       tableName: 'likes'
    }
 );
+
+module.exports = Like;

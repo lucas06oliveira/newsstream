@@ -46,3 +46,5 @@ const News = sequelize.define(
       tableName: 'news'
    }
 );
+
+module.exports = News;
