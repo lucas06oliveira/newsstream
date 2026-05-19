@@ -32,3 +32,5 @@ const Comment = sequelize.define(
       tableName: 'comments'
    }
 );
+
+module.exports = Comment;
